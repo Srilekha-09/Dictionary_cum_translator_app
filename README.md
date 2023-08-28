@@ -1,1 +1,1 @@
-# Dictionary_cum_translator_app
+COMLID is a Command Line based Dictionary cum Translator.
